@@ -14,10 +14,7 @@ const About = () => {
         </div>
       </div>
       <p className='mt-6 text-lg leading-8 max-w-2xl mx-auto'>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quae
-        quam blanditiis vitae, dolor non eveniet ipsum voluptatibus, quia optio
-        aut! Perferendis ipsa cumque ipsam nostrum reprehenderit ad illo sed
-        officiis ea tempore! Similique eos minima sit porro, ratione aspernatur!
+       Your one-stop destination for premium furniture, meticulously crafted with React, Redux Toolkit, Tailwind CSS, and DaisyUI. Dive into a world where comfort meets cutting-edge technology, offering seamless navigation and dynamic filtering options. With Tailwind CSS and DaisyUI's sleek designs, every click immerses you in a visual feast of style and functionality. Easily browse our curated collection of chairs, lamps, coffee tables, and beds, effortlessly adding your favorites to the cart. Say goodbye to clunky interfaces and hello to a smooth, intuitive shopping experience.
       </p>
     </>
   );
